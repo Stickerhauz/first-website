@@ -1,0 +1,62 @@
+.card {
+	display: inline-block;
+	margin: 16px;
+}
+body {
+	color: #0E0302;
+}
+h1 {
+	font-family: transducer;
+	color: #EEECEC;
+	font-weight: 900;
+	font-size: 4rem;
+	text-align: center;
+
+}
+h2 {
+	font-family: transducer;
+	font-weight: 600;
+	font-size: 2.5rem;
+	padding-top: 48px;
+	padding-bottom: 32px;
+}
+h5 {
+	font-family: transducer;
+	font-weight: 400;
+	font-size: 1.5rem;
+	line-height: 120%;
+}
+.btn-primary {
+	font-family: transducer;
+	font-weight: 400;
+	font-size: 1rem;
+	letter-spacing: 1px;
+}
+body {
+	background-color: #EEECEC;
+}
+p, .our-services {
+	font-family: "open-sans", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	margin-bottom: 32px;
+}
+#carouselExample {
+	margin-bottom: 48px;
+}
+.header {
+	position: relative;
+	top: 10px;
+	padding-top: 48px;
+	padding-bottom: 48px;
+	letter-spacing: 2px;
+	background-color: #2A201F;
+}
+.btn-primary {
+	background-color: #E54D2B;
+	border: none;
+}
+.btn-primary:hover {
+	background-color: #9B2309;
+	border: none;
+}
